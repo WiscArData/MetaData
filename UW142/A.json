@@ -3,13 +3,35 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "100012",
+            "identifier": 100017,
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
             "position": 1
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": 100018,
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 2
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 3
         }
     ],
     "z": 0.0
