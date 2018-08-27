@@ -4,56 +4,73 @@
             "analyses": [],
             "decay_constants": {},
             "identifier": "100017",
-            "j": 0.0,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
-            "position": 1
-        },
-        {
-            "analyses": [],
-            "decay_constants": {},
-            "identifier": "100018",
-            "j": 0.0,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
-            "position": 2
-        },
-        {
-            "analyses": [],
-            "decay_constants": {},
-            "identifier": "",
-            "j": 0.0,
-            "j_err": 0.0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
-            "position": 3
-        },
-        {
-            "analyses": [],
-            "decay_constants": {},
-            "identifier": "",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
-            "position": 28
+            "position": 1,
+            "position_jerr": null
         },
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "",
-            "j": 0.0,
-            "j_err": 0.0,
+            "identifier": "100018",
+            "j": 0,
+            "j_err": 0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
-            "position": 4
+            "position": 2,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW142:A03",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 3,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW142:A27",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 27,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW142:A29",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 29,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW142:A31",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 31,
+            "position_jerr": null
         }
     ],
     "z": 0.0
