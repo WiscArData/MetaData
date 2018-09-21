@@ -3,6 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
+<<<<<<< Updated upstream
             "identifier": "100000",
             "j": 0,
             "j_err": 0,
@@ -23,6 +24,15 @@
             "options": {},
             "position": 2,
             "position_jerr": null
+=======
+            "identifier": "100001",
+            "j": 0.00081100,
+            "j_err": 0.0000012,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 1
+>>>>>>> Stashed changes
         }
     ],
     "z": 0
