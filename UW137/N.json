@@ -16,12 +16,24 @@
             "analyses": [],
             "decay_constants": {},
             "identifier": "UW137:N153",
-            "j": 0.0,
-            "j_err": 0.0,
+            "j": 0,
+            "j_err": 0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
             "position": 13,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW137:N154",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 5,
             "position_jerr": null
         }
     ],
