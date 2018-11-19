@@ -1,4 +1,49 @@
 {
-    "positions": [],
+    "positions": [
+       {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "NAir1",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 1
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "NAir2",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 2
+        },
+	{
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "MAir1",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 3
+        },
+	{
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "MAir2",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 4
+        }
+    ],
     "z": 0
 }
