@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "100001",
+            "identifier": "NAir1",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -14,13 +14,57 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "100002",
+            "identifier": "NAir2",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
             "position": 2
+        },
+	{
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "MAir1",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 3
+        },
+	{
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "MAir2",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 4
+        },
+	{
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "NBlank1",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 5
+        },
+	{
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "MBlank1",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 6
         }
     ],
     "z": 0
