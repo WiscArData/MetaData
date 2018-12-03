@@ -99,7 +99,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW142:A",
+            "identifier": "UW142:A5",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -111,7 +111,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW142:A",
+            "identifier": "UW142:A6",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -123,7 +123,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW142:A",
+            "identifier": "UW142:A7",
             "j": 0.0007501564407587074,
             "j_err": 1.6435522709334702e-06,
             "mean_j": 0,
