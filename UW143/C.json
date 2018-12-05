@@ -1,4 +1,161 @@
 {
-    "positions": [],
+    "positions": [
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:C26",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 1,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:C27",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 2,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:C28",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 3,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:C29",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 4,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:C30",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 5,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:C31",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 6,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:C32",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 7,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:C33",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 8,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:C34",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 9,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:CS1",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 28,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:CS3",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 30,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:CS7",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 34,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW143:CS9",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 36,
+            "position_jerr": null
+        }
+    ],
     "z": 0
 }
