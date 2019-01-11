@@ -17,7 +17,7 @@
             "decay_constants": {},
             "identifier": "UW142:B11",
             "j": 0.0007454,
-            "j_err": 0.00013,
+            "j_err": 1.3e-06,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
