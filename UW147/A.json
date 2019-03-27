@@ -15,13 +15,25 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW147:A2",
+            "identifier": "UW147:A3",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
             "mean_j_err": 0,
             "options": {},
             "position": 2,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW147:A2",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 10,
             "position_jerr": null
         }
     ],
