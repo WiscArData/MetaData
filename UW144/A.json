@@ -151,8 +151,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "UW144:A13",
-            "j": 0.01671790028896662,
-            "j_err": 2.4679677334764853e-05,
+            "j": 0.01674142633979974,
+            "j_err": 2.4010423092664306e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -223,8 +223,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "UW144:A2",
-            "j": 0.016701040846636577,
-            "j_err": 1.8881589580747112e-05,
+            "j": 0.016730060823230503,
+            "j_err": 2.838926234228812e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -367,8 +367,8 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "UW144:A14",
-            "j": 0.01671790028896662,
-            "j_err": 2.4679677334764853e-05,
+            "j": 0.01674142633979974,
+            "j_err": 2.4010423092664306e-05,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -610,10 +610,10 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "UW144:AS1",
-            "j": 0.016701040846636577,
-            "j_err": 1.8881589580747112e-05,
-            "mean_j": 0.016701040846636577,
-            "mean_j_err": 1.8881589580747112e-05,
+            "j": 0.016730060823230503,
+            "j_err": 2.838926234228812e-05,
+            "mean_j": 0.016730060823230503,
+            "mean_j_err": 2.838926234228812e-05,
             "options": {
                 "model_kind": "Matching",
                 "monitor_age": 28.201,
@@ -652,17 +652,17 @@
                     "uuid": "NAI0431"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW144:AS7-03A",
                     "uuid": "NAI0433"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW144:AS7-04A",
                     "uuid": "NAI0436"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW144:AS7-05A",
                     "uuid": "NAI0438"
                 },
@@ -677,12 +677,12 @@
                     "uuid": "NAI0443"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW144:AS7-08A",
                     "uuid": "NAI0446"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW144:AS7-09A",
                     "uuid": "NAI0448"
                 },
@@ -697,10 +697,10 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "UW144:AS7",
-            "j": 0.01671790028896662,
-            "j_err": 2.4679677334764853e-05,
-            "mean_j": 0.01671790028896662,
-            "mean_j_err": 2.4679677334764853e-05,
+            "j": 0.01674142633979974,
+            "j_err": 2.4010423092664306e-05,
+            "mean_j": 0.01674142633979974,
+            "mean_j_err": 2.4010423092664306e-05,
             "options": {
                 "model_kind": "Matching",
                 "monitor_age": 28.201,
@@ -762,10 +762,10 @@
                 "lambda_k_total_error": 0
             },
             "identifier": "UW144:AS9",
-            "j": 0.01674785667074028,
-            "j_err": 2.8244520801176472e-05,
-            "mean_j": 0.01674785667074028,
-            "mean_j_err": 2.8244520801176472e-05,
+            "j": 0.016755939758628442,
+            "j_err": 3.122707702251928e-05,
+            "mean_j": 0.016755939758628442,
+            "mean_j_err": 3.122707702251928e-05,
             "options": {
                 "model_kind": "Matching",
                 "monitor_age": 28.201,
