@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW149:A1",
+            "identifier": "UW149:A01",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -39,7 +39,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW149:A2",
+            "identifier": "UW149:A02",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
