@@ -22,7 +22,38 @@
             "mean_j_err": 0,
             "options": {},
             "position": 2
-        }
+        },{
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "a-01-n",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 3
+        },{
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "ba-01-n",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 4
+        },{
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "bu-fc-n",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "options": {},
+            "position": 5
+        },
+        
     ],
     "z": 0
 }
