@@ -75,7 +75,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW151:CS02",
+            "identifier": "UW151:CS03",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -87,7 +87,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW151:CS03",
+            "identifier": "UW151:CS07",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -99,7 +99,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW151:CS04",
+            "identifier": "UW151:CS09",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
