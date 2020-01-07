@@ -123,7 +123,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW151:BS02",
+            "identifier": "UW151:BS03",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -135,7 +135,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW151:BS03",
+            "identifier": "UW151:BS07",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -147,7 +147,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW151:BS04",
+            "identifier": "UW151:BS09",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
