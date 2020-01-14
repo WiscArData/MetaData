@@ -12,6 +12,7 @@ baseline:
   detector: H3
   mass: 34.05
   settling_time: 20.0
+  integration_time: 1.0
 default_fits: nominal
 equilibration:
   eqtime: 1.0
@@ -81,8 +82,7 @@ def main():
     multicollect(ncounts=mx.multicollect.counts, integration_time=1)
     
     if mx.baseline.after:
-        baselines(ncounts=mx.baseline.counts,mass=mx.baseline.mass, detector=mx.baseline.detector, 
-                  settling_time=mx.baseline.settling_time)
+        baselines(ncounts=mx.baseline.counts, integration_time=mx.baseline.integration_time, mass=mx.baseline.mass, detector=mx.baseline.detector, settling_time=mx.baseline.settling_time)
     if mx.peakcenter.after:
         activate_detectors(*mx.peakcenter.detectors, **{'peak_center':True})
         peak_center(detector=mx.peakcenter.detector,isotope=mx.peakcenter.isotope,
