@@ -14,28 +14,6 @@ def main():
     sleep(cleanup)
 
 #===============================================================================
-# POST EQUILIBRATION SCRIPT ngx_pump_extraction_line.py
-#===============================================================================
-
-
-def main():
-
-    info('Pump after equilibration')
-    
-    close(description='MS In')
-    close(description='Laser Pump')
-    close(description='Ion Pump')
-    open(description='Turbo')
-    
-    sleep(2)
-    
-    open(description='Hex In')
-    open(description='Cryo')
-    open(description='Getter')
-    open(description='Air Port')
-
-
-#===============================================================================
 # POST MEASUREMENT SCRIPT ngx_pump_ms.py
 #===============================================================================
 def main():
