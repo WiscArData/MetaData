@@ -68,7 +68,7 @@ def main():
     Equilibrate is non-blocking so use a sniff or sleep as a placeholder
     e.g sniff(<equilibration_time>) or sleep(<equilibration_time>)
     '''
-
+    set_integration_time(1)
     equilibrate(eqtime=eqt, inlet=mx.equilibration.inlet, outlet=mx.equilibration.outlet, 
                delay=mx.equilibration.inlet_delay)
 
