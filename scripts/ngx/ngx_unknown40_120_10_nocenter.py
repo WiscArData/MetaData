@@ -8,11 +8,11 @@
 baseline:
   after: true
   before: false
-  counts: 120
+  counts: 12
   detector: H3
   mass: 34.05
-  settling_time: 20.0
-  integration_time: 1.0
+  settling_time: 5.0
+  integration_time: 10.0
 default_fits: nominal
 equilibration:
   eqtime: 1.0
@@ -68,6 +68,9 @@ def main():
     Equilibrate is non-blocking so use a sniff or sleep as a placeholder
     e.g sniff(<equilibration_time>) or sleep(<equilibration_time>)
     '''
+    
+    set_integration_time(1)
+
 
     equilibrate(eqtime=eqt, inlet=mx.equilibration.inlet, outlet=mx.equilibration.outlet, 
                delay=mx.equilibration.inlet_delay)
