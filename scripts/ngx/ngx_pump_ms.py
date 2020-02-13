@@ -6,6 +6,6 @@ def main():
     
     open(description='Ion Pump')
     
-    if delay_after>0:
-        sleep(delay_after)
+    #if delay_after>0:
+    #    sleep(delay_after)
     
