@@ -8,7 +8,7 @@
 baseline:
   after: true
   before: false
-  counts: 20
+  counts: 30
   detector: H3
   mass: 34.05
   settling_time: 5.0
