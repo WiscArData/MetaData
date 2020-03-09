@@ -9,7 +9,7 @@ baseline:
   after: true
   before: false
   counts: 30
-  detector: H3
+  detector: L5
   mass: 34.05
   settling_time: 5.0
   integration_time: 10.0
@@ -22,12 +22,12 @@ equilibration:
   use_extraction_eqtime: true
 multicollect:
   counts: 70
-  detector: H3
+  detector: L5
   isotope: Ar40
 peakcenter:
   after: false
   before: false
-  detector: H3
+  detector: L5
   detectors:
   - H3
   - H1
@@ -40,7 +40,7 @@ peakhop:
   hops_name: single_detector_peak_hop
   ncycles: 50
 '''
-ACTIVE_DETECTORS=('H3',)
+ACTIVE_DETECTORS=('L5',)
     
 def main():
     info('unknown measurement script')
