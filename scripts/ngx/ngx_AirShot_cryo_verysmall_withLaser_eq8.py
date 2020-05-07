@@ -1,19 +1,19 @@
 #===============================================================================
-# EXTRACTION SCRIPT ngx_AirShot_eq12_wLaser.py
+# EXTRACTION SCRIPT ngx_AirShot_cryo_verysmall_withLaser_eq8.py
 #===============================================================================
 
 '''
 modifier: 01
-eqtime: 12
+eqtime: 8
 '''
 
 def main():
 
     info('NGX Air Shot')
 
-    gosub('util:PrepareForAirShotLaser')
+    gosub('util:PrepareForAirShot')
 
-    gosub('util:AirShot')
+    gosub('util:AirShot_cryo_verysmall_withLaser')
     
 
 #===============================================================================

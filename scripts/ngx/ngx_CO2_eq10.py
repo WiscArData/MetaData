@@ -1,19 +1,21 @@
 #===============================================================================
-# EXTRACTION SCRIPT ngx_AirShot_eq12_wLaser.py
+# EXTRACTION SCRIPT ngx_CO2_eq10.py
 #===============================================================================
 
 '''
 modifier: 01
-eqtime: 12
+eqtime: 10
 '''
 
 def main():
 
-    info('NGX Air Shot')
+    info('NGX CO2 laser analysis')
 
-    gosub('util:PrepareForAirShotLaser')
+    gosub('util:PrepareForCO2Analysis')
 
-    gosub('util:AirShot')
+    gosub('util:CO2Analysis')
+    
+
     
 
 #===============================================================================
