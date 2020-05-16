@@ -4,7 +4,7 @@
 
 '''
 modifier: 01
-eqtime: 8
+eqtime: 10
 '''
 
 def main():
