@@ -357,12 +357,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW150:A29",
-            "j": 0.022129826248107994,
-            "j_err": 9.537663395295014e-06,
+            "j": 0.02213543398412613,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Weighted Mean",
+                "model_kind": "Matching",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -684,12 +684,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW150:AS15",
-            "j": 0.022129826248107994,
-            "j_err": 9.537663395295014e-06,
+            "j": 0.02213543398412613,
+            "j_err": 0.0,
             "mean_j": 0.02213543398412613,
             "mean_j_err": 1.3580259178490319e-05,
             "options": {
-                "model_kind": "Weighted Mean",
+                "model_kind": "Matching",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
@@ -1035,12 +1035,12 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW150:A30",
-            "j": 0.022129826248107994,
-            "j_err": 9.537663395295014e-06,
+            "j": 0.02213543398412613,
+            "j_err": 0.0,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
-                "model_kind": "Weighted Mean",
+                "model_kind": "Matching",
                 "monitor_age": 28.201,
                 "monitor_material": "",
                 "monitor_name": "",
