@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW153:BBS01",
+            "identifier": "UW153:BS01",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -15,7 +15,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW153:BBS03",
+            "identifier": "UW153:BS03",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -27,7 +27,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW153:BBS07",
+            "identifier": "UW153:BS07",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -39,7 +39,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW153:BBS09",
+            "identifier": "UW153:BS09",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
