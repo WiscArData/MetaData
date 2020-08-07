@@ -3,7 +3,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW153:CCS01",
+            "identifier": "UW153:CS01",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -15,7 +15,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW153:CCS03",
+            "identifier": "UW153:CS03",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -27,7 +27,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW153:CCS08",
+            "identifier": "UW153:CS08",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -39,7 +39,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW153:CCS10",
+            "identifier": "UW153:CS10",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -51,7 +51,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW153:CCS15",
+            "identifier": "UW153:CS15",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -63,7 +63,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW153:CCS17",
+            "identifier": "UW153:CS17",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
