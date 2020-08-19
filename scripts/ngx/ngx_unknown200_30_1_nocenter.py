@@ -8,11 +8,11 @@
 baseline:
   after: true
   before: false
-  counts: 30
+  counts: 12
   detector: H3
   mass: 34.05
-  settling_time: 20.0
-  integration_time: 1.0
+  settling_time: 5.0
+  integration_time: 10.0
 default_fits: nominal
 equilibration:
   eqtime: 1.0
