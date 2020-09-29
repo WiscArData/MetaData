@@ -86,10 +86,13 @@ def main():
     
     if mx.baseline.after:
         baselines(ncounts=mx.baseline.counts, integration_time=mx.baseline.integration_time, mass=mx.baseline.mass, detector=mx.baseline.detector, settling_time=mx.baseline.settling_time)
+        
     if mx.peakcenter.after:
         activate_detectors(*mx.peakcenter.detectors, **{'peak_center':True})
-        peak_center(detector=mx.peakcenter.detector,isotope=mx.peakcenter.isotope,
-        integration_time=mx.peakcenter.integration_time) 
+        peak_center(detector=mx.peakcenter.detector,isotope=mx.peakcenter.isotope, 
+                    integration_time=mx.peakcenter.integration_time,
+                    config_name='H340_L536') 
+
        
     info('finished measure script')
     
