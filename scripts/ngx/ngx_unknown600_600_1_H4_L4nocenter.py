@@ -29,11 +29,11 @@ peakcenter:
   before: false
   detector: H4
   detectors:
-  - H3
-  - H1
-  - L1
-  - L3
-  - L5
+  - H4
+  - H2
+  - Ax
+  - L2
+  - L4
   integration_time: 0.262144
   isotope: Ar40
 peakhop:
