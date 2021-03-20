@@ -13,7 +13,7 @@ def main():
 
     gosub('util:PrepareForAirShotLaser')
 
-    gosub('util:AirShot_GP50')
+    gosub('util:AirShot_GP50_laser')
     
 
 #===============================================================================
