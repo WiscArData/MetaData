@@ -11,7 +11,7 @@ def main():
 
     info('NGX Air Shot')
 
-    gosub('util:PrepareForAirShotLaser')
+    gosub('util:PrepareForAirShot')
 
     gosub('util:AirShot_cryo_med')
     
