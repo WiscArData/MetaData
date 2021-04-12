@@ -77,7 +77,8 @@ def main():
 
     set_time_zero()
     
-    sniff(eqt)    
+    #sniff(eqt)    
+    sleep(eqt)
     set_fits()
     set_baseline_fits()
 
