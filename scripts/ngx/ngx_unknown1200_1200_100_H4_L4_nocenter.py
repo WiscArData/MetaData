@@ -10,7 +10,7 @@ baseline:
   before: false
   counts: 12
   detector: H4
-  mass: 37.75
+  mass: 37.60
   settling_time: 20.0
   integration_time: 100.0
 default_fits: nominal
@@ -76,7 +76,7 @@ def main():
 
     set_time_zero()
     
-    sniff(eqt)    
+    sleep(eqt)    
     set_fits()
     set_baseline_fits()
 
