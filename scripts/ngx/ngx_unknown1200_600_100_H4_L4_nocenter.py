@@ -10,7 +10,7 @@ baseline:
   before: false
   counts: 6
   detector: H4
-  mass: 37.60
+  mass: 38.3
   settling_time: 20.0
   integration_time: 100.0
 default_fits: nominal
