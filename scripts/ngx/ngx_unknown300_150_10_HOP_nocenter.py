@@ -12,7 +12,7 @@ baseline:
   detector: H4
   mass: 37.6
   settling_time: 10.0
-  integration_time: 50.0
+  integration_time: 10.0
 default_fits: nominal
 equilibration:
   eqtime: 1.0
@@ -44,7 +44,7 @@ peakcenter:
 peakhop:
   generate_ic_table: false
   hops_name: L4_IC_hops
-  ncycles: 12
+  ncycles: 15
   use_peak_hop: true
 '''
 ACTIVE_DETECTORS=('H4','H3','H2','H1','Ax','L1','L2','L3','L4','L5')
