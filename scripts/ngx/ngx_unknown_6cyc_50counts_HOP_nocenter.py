@@ -85,12 +85,12 @@ def main():
     #instead of recording eq gas. just wait eq time.
     sleep(eqt)
     
-    set_fits()
-    set_baseline_fits()
 
     set_integration_time(10)
     hops=load_hops('hops/{}.yaml'.format(mx.peakhop.hops_name))
     define_hops(hops)
+    set_fits()
+    set_baseline_fits()
     peak_hop(ncycles=mx.peakhop.ncycles, hops=hops)
 
     if mx.baseline.after:
