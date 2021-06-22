@@ -18,7 +18,7 @@ equilibration:
   eqtime: 1.0
   inlet: 0
   inlet_delay: 3
-  outlet: 10
+  outlet: 12
   use_extraction_eqtime: true
 multicollect:
   counts: 30
