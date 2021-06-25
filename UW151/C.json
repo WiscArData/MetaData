@@ -7,8 +7,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C37",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -32,8 +32,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C39",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -57,8 +57,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C38",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -82,8 +82,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C40",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -107,8 +107,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C41",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -126,16 +126,60 @@
             "position_jerr": 0.0
         },
         {
-            "analyses": [],
-            "decay_constants": {},
+            "analyses": [
+                {
+                    "is_omitted": true,
+                    "record_id": "UW151:CS01-01A",
+                    "uuid": "NAK3855"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW151:CS01-02A",
+                    "uuid": "NAK3858"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW151:CS01-02B",
+                    "uuid": "NAK3859"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW151:CS01-03A",
+                    "uuid": "NAK3860"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW151:CS01-04A",
+                    "uuid": "NAK3863"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW151:CS01-05A",
+                    "uuid": "NAK3864"
+                }
+            ],
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "UW151:CS01",
-            "j": 0.0005465767317165655,
-            "j_err": 5.559235330264637e-07,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "options": {},
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
+            "mean_j": 0.0005320525007533955,
+            "mean_j_err": 1.4369884748403184e-06,
+            "options": {
+                "model_kind": "Weighted Mean",
+                "monitor_age": 1.1864,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC Min et al., 2000",
+                "monte_carlo_ntrials": 10,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 28,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [
@@ -175,10 +219,10 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:CS03",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
-            "mean_j": 0.0005321117447883465,
-            "mean_j_err": 4.006502366984725e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
+            "mean_j": 0.0005311394077941702,
+            "mean_j_err": 5.027352753722605e-07,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -206,7 +250,7 @@
                     "uuid": "NAK3878"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "UW151:CS07-03A",
                     "uuid": "NAK3879"
                 },
@@ -221,7 +265,7 @@
                     "uuid": "NAK3883"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW151:CS07-06A",
                     "uuid": "NAK3884"
                 }
@@ -231,10 +275,10 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:CS07",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
-            "mean_j": 0.0005318402318774374,
-            "mean_j_err": 9.658735411151831e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
+            "mean_j": 0.0005318112300803599,
+            "mean_j_err": 5.660529933353722e-07,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -287,10 +331,10 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:CS09",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
-            "mean_j": 0.0005328198291237401,
-            "mean_j_err": 7.997301245105505e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
+            "mean_j": 0.0005324305207197637,
+            "mean_j_err": 8.137678077058229e-07,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -312,8 +356,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C43",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -337,8 +381,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C45",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -362,8 +406,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C42",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -387,8 +431,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C44",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -412,8 +456,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C47",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -437,8 +481,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C49",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -462,8 +506,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C46",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -487,8 +531,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C48",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -512,8 +556,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C50",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -537,8 +581,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C51",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -562,8 +606,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C54",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -587,8 +631,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C52",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -612,8 +656,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C55",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -637,8 +681,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C53",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
@@ -662,8 +706,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:C56",
-            "j": 0.0005322038003218501,
-            "j_err": 2.9199633290922873e-07,
+            "j": 0.0005316341876963561,
+            "j_err": 2.714424452399298e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "options": {
