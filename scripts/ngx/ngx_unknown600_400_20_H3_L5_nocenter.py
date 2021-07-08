@@ -22,7 +22,7 @@ equilibration:
   use_extraction_eqtime: true
 multicollect:
   counts: 30
-  detector: H4
+  detector: H3
   isotope: Ar40
 peakcenter:
   after: false
