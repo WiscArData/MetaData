@@ -8,7 +8,7 @@
 baseline:
   after: true
   before: false
-  counts: 800
+  counts: 300
   detector: H4
   mass: 37.6
   settling_time: 10.0
