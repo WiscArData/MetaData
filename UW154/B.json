@@ -7,10 +7,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B18",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -32,10 +33,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B19",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -57,10 +59,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B20",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -82,10 +85,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B21",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -107,10 +111,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B22",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -132,10 +137,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B23",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -157,10 +163,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B24",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -182,10 +189,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B25",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -207,10 +215,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B26",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -232,10 +241,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B27",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -257,10 +267,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B28",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -282,10 +293,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B29",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -307,10 +319,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B30",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -332,10 +345,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B32",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -357,10 +371,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B33",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -382,10 +397,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B34",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -407,10 +423,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B36",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -432,10 +449,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B31",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -457,10 +475,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:B35",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -518,10 +537,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:BS01",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
-            "mean_j": 0.0005235325639683956,
-            "mean_j_err": 4.1257494505904596e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
+            "mean_j": 0.0005236948461219725,
+            "mean_j_err": 5.836582495004118e-07,
+            "mean_j_mswd": 0.7502539293739681,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -574,10 +594,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:BS03",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
-            "mean_j": 0.0005240766809085835,
-            "mean_j_err": 2.1562197622753824e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
+            "mean_j": 0.0005242391412628613,
+            "mean_j_err": 4.313712005006802e-07,
+            "mean_j_mswd": 0.38333029016768255,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -635,10 +656,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:BS08",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
-            "mean_j": 0.00052255020514795,
-            "mean_j_err": 2.167555105068722e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
+            "mean_j": 0.0005227121998159679,
+            "mean_j_err": 4.848355889285146e-07,
+            "mean_j_mswd": 0.2932891615143247,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -656,17 +678,17 @@
         {
             "analyses": [
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "UW154:BS10-01A",
                     "uuid": "NAM4241"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "UW154:BS10-02A",
                     "uuid": "NAM4242"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "UW154:BS10-03A",
                     "uuid": "NAM4243"
                 },
@@ -696,10 +718,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:BS10",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
-            "mean_j": 0.000523610039521079,
-            "mean_j_err": 2.20398309449309e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
+            "mean_j": 0.0005228827812199592,
+            "mean_j_err": 4.7096466650535094e-07,
+            "mean_j_mswd": 0.4500705231280806,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -727,7 +750,7 @@
                     "uuid": "NAM4253"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "UW154:BS15-03A",
                     "uuid": "NAM4256"
                 },
@@ -757,10 +780,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:BS15",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
-            "mean_j": 0.0005239993951432135,
-            "mean_j_err": 1.2760970546888489e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
+            "mean_j": 0.0005242001942944472,
+            "mean_j_err": 2.371533865581938e-07,
+            "mean_j_mswd": 0.1159786173196592,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -813,10 +837,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW154:BS17",
-            "j": 0.0005238815174396074,
-            "j_err": 2.1345653412682244e-07,
-            "mean_j": 0.0005231657993016816,
-            "mean_j_err": 4.3412422711066343e-07,
+            "j": 0.000523799631649127,
+            "j_err": 2.691105345678533e-07,
+            "mean_j": 0.0005233279742182136,
+            "mean_j_err": 1.0636833973868652e-06,
+            "mean_j_mswd": 1.202471761311668,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
