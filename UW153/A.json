@@ -33,10 +33,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:AS01",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
-            "mean_j": 0.0005519476102510943,
-            "mean_j_err": 2.369759827394258e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
+            "mean_j": 0.0005376406870719215,
+            "mean_j_err": 9.736875343201117e-07,
+            "mean_j_mswd": 0.5638445293913639,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -93,10 +94,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:AS08",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
-            "mean_j": 0.0005518049756210116,
-            "mean_j_err": 6.995782496465718e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
+            "mean_j": 0.0005378225701518581,
+            "mean_j_err": 5.4783377372166656e-08,
+            "mean_j_mswd": 0.0014291682640573495,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -124,7 +126,7 @@
                     "uuid": "NAM0974"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "UW153:AS10-03A",
                     "uuid": "NAM0977"
                 },
@@ -149,10 +151,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:AS10",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
-            "mean_j": 0.0005513901349362973,
-            "mean_j_err": 1.251746346996953e-06,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
+            "mean_j": 0.0005336707533331342,
+            "mean_j_err": 1.7429460323474633e-06,
+            "mean_j_mswd": 0.8585133249275453,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -204,7 +207,7 @@
                     "uuid": "NAM1001"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "UW153:AS17-04A",
                     "uuid": "NAM1002"
                 },
@@ -219,10 +222,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:AS17",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
-            "mean_j": 0.0005514398418902925,
-            "mean_j_err": 2.169250906694054e-06,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
+            "mean_j": 0.0005370305949912485,
+            "mean_j_err": 9.000374163368224e-07,
+            "mean_j_mswd": 0.12183958436512357,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -244,10 +248,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A01",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -269,10 +274,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A02",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -294,10 +300,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A03",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -319,10 +326,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A04",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -344,10 +352,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A05",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -369,10 +378,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A06",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -394,10 +404,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A07",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -419,10 +430,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A08",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -444,10 +456,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A09",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -469,10 +482,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A10",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -494,10 +508,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A11",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -519,10 +534,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A12",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -544,10 +560,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A13",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -569,10 +586,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A14",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -594,10 +612,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A15",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -619,10 +638,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A16",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -644,10 +664,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW153:A17",
-            "j": 0.0005519111319814586,
-            "j_err": 1.366899082486272e-07,
+            "j": 0.0005378150178028438,
+            "j_err": 8.010292398193033e-08,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
