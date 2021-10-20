@@ -7,10 +7,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:D57",
-            "j": 0.000547589439782452,
-            "j_err": 2.0123020553359308e-07,
+            "j": 0.0005347519919991614,
+            "j_err": 3.765758085439585e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -32,10 +33,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:D59",
-            "j": 0.000547589439782452,
-            "j_err": 2.0123020553359308e-07,
+            "j": 0.0005347519919991614,
+            "j_err": 3.765758085439585e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -57,10 +59,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:D58",
-            "j": 0.000547589439782452,
-            "j_err": 2.0123020553359308e-07,
+            "j": 0.0005347519919991614,
+            "j_err": 3.765758085439585e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -82,10 +85,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:D60",
-            "j": 0.000547589439782452,
-            "j_err": 2.0123020553359308e-07,
+            "j": 0.0005347519919991614,
+            "j_err": 3.765758085439585e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
+            "mean_j_mswd": 0.0,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -108,7 +112,7 @@
                     "uuid": "NAK3895"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "UW151:DS01-02A",
                     "uuid": "NAK3898"
                 },
@@ -138,10 +142,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:DS01",
-            "j": 0.000547589439782452,
-            "j_err": 2.0123020553359308e-07,
-            "mean_j": 0.0005476800718783748,
-            "mean_j_err": 1.7161523257878565e-07,
+            "j": 0.0005347519919991614,
+            "j_err": 3.765758085439585e-07,
+            "mean_j": 0.0005351611305815509,
+            "mean_j_err": 5.475646517176448e-07,
+            "mean_j_mswd": 0.08722965891419371,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -184,7 +189,7 @@
                     "uuid": "NAK3913"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "UW151:DS02-06A",
                     "uuid": "NAK3914"
                 }
@@ -194,10 +199,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:DS02",
-            "j": 0.000547589439782452,
-            "j_err": 2.0123020553359308e-07,
-            "mean_j": 0.0005473478558915266,
-            "mean_j_err": 4.120110186050427e-06,
+            "j": 0.0005347519919991614,
+            "j_err": 3.765758085439585e-07,
+            "mean_j": 0.0005337998383435013,
+            "mean_j_err": 2.170935187361751e-06,
+            "mean_j_mswd": 0.525252398008471,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
@@ -215,7 +221,7 @@
         {
             "analyses": [
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "UW151:DS03-01A",
                     "uuid": "NAK3834"
                 },
@@ -245,10 +251,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW151:DS03",
-            "j": 0.000547589439782452,
-            "j_err": 2.0123020553359308e-07,
-            "mean_j": 0.0005469985877796138,
-            "mean_j_err": 4.391983898901359e-07,
+            "j": 0.0005347519919991614,
+            "j_err": 3.765758085439585e-07,
+            "mean_j": 0.0005344202400865046,
+            "mean_j_err": 5.341956035831708e-07,
+            "mean_j_mswd": 0.12211744803509691,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 1.1864,
