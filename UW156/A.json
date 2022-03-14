@@ -28,8 +28,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW156:AS01",
-            "j": 0.013031177789550536,
-            "j_err": 9.41522161163395e-07,
+            "j": 0.01303087711185855,
+            "j_err": 1.0772903337137536e-06,
             "mean_j": 0.013026275002883314,
             "mean_j_err": 1.3307197648809994e-05,
             "mean_j_mswd": 0.34021825923877463,
@@ -80,8 +80,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW156:AS02",
-            "j": 0.013031177789550536,
-            "j_err": 9.41522161163395e-07,
+            "j": 0.01303087711185855,
+            "j_err": 1.0772903337137536e-06,
             "mean_j": 0.013013281366450233,
             "mean_j_err": 3.374045775435695e-05,
             "mean_j_mswd": 0.05272157669586714,
@@ -184,8 +184,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW156:AS04",
-            "j": 0.013031177789550536,
-            "j_err": 9.41522161163395e-07,
+            "j": 0.01303087711185855,
+            "j_err": 1.0772903337137536e-06,
             "mean_j": 0.013031030577429313,
             "mean_j_err": 9.659737904232335e-07,
             "mean_j_mswd": 0.002316336140129623,
@@ -204,24 +204,56 @@
             "position_jerr": 0.0
         },
         {
-            "analyses": [],
+            "analyses": [
+                {
+                    "is_omitted": false,
+                    "record_id": "UW156:AS05-01A",
+                    "uuid": "NBA9054"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW156:AS05-02A",
+                    "uuid": "NBA9057"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW156:AS05-03A",
+                    "uuid": "NBA9060"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW156:AS05-04A",
+                    "uuid": "NBA9061"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW156:AS05-05A",
+                    "uuid": "NBA9064"
+                }
+            ],
             "decay_constants": {
-                "lambda_k_total": 5.463e-10,
-                "lambda_k_total_error": 0
+                "lambda_k_total": 5.464e-10,
+                "lambda_k_total_error": 0.0
             },
             "identifier": "UW156:AS05",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "mean_j_mswd": 0,
+            "j": 0.01303087711185855,
+            "j_err": 1.0772903337137536e-06,
+            "mean_j": 0.013009377619795523,
+            "mean_j_err": 1.6869513638066274e-05,
+            "mean_j_mswd": 0.7339960464605637,
             "options": {
+                "model_kind": "Weighted Mean",
                 "monitor_age": 28.201,
-                "monitor_material": "Sanidine",
-                "monitor_name": "FC-2"
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "FC Min et al., 2000",
+                "monte_carlo_ntrials": 10,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
             },
             "position": 22,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
@@ -264,24 +296,56 @@
             "position_jerr": null
         },
         {
-            "analyses": [],
+            "analyses": [
+                {
+                    "is_omitted": true,
+                    "record_id": "UW156:AS08-01A",
+                    "uuid": "NBA9065"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW156:AS08-02A",
+                    "uuid": "NBA9068"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW156:AS08-03A",
+                    "uuid": "NBA9069"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW156:AS08-04A",
+                    "uuid": "NBA9070"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW156:AS08-05A",
+                    "uuid": "NBA9073"
+                }
+            ],
             "decay_constants": {
-                "lambda_k_total": 5.463e-10,
-                "lambda_k_total_error": 0
+                "lambda_k_total": 5.464e-10,
+                "lambda_k_total_error": 0.0
             },
             "identifier": "UW156:AS08",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "mean_j_mswd": 0,
+            "j": 0.01303087711185855,
+            "j_err": 1.0772903337137536e-06,
+            "mean_j": 0.013015367764810576,
+            "mean_j_err": 1.7998004917083572e-05,
+            "mean_j_mswd": 0.8952989132229967,
             "options": {
+                "model_kind": "Weighted Mean",
                 "monitor_age": 28.201,
-                "monitor_material": "Sanidine",
-                "monitor_name": "FC-2"
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "FC Min et al., 2000",
+                "monte_carlo_ntrials": 10,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
             },
             "position": 25,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [
@@ -341,8 +405,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW156:AS09",
-            "j": 0.013031177789550536,
-            "j_err": 9.41522161163395e-07,
+            "j": 0.01303087711185855,
+            "j_err": 1.0772903337137536e-06,
             "mean_j": 0.0130698454404258,
             "mean_j_err": 2.056423160986955e-05,
             "mean_j_mswd": 0.35267820453199417,
@@ -465,8 +529,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW156:AS11",
-            "j": 0.013031177789550536,
-            "j_err": 9.41522161163395e-07,
+            "j": 0.01303087711185855,
+            "j_err": 1.0772903337137536e-06,
             "mean_j": 0.013017327797682292,
             "mean_j_err": 1.215262938124426e-05,
             "mean_j_mswd": 0.3066593847834463,
@@ -901,8 +965,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW156:A09",
-            "j": 0.013031177789550536,
-            "j_err": 9.41522161163395e-07,
+            "j": 0.01303087711185855,
+            "j_err": 1.0772903337137536e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -979,8 +1043,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW156:A15",
-            "j": 0.013031177789550536,
-            "j_err": 9.41522161163395e-07,
+            "j": 0.01303087711185855,
+            "j_err": 1.0772903337137536e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
