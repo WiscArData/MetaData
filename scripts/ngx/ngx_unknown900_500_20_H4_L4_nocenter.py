@@ -11,8 +11,8 @@ baseline:
   counts: 9
   detector: H4
   mass: 37.75
-  settling_time: 20.0
-  integration_time: 50.0
+  settling_time: 10.0
+  integration_time: 20.0
 default_fits: nominal
 equilibration:
   eqtime: 1.0
@@ -21,7 +21,7 @@ equilibration:
   outlet: 12
   use_extraction_eqtime: true
 multicollect:
-  counts: 18
+  counts: 40
   detector: H4
   isotope: Ar40
 peakcenter:
