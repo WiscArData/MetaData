@@ -8,7 +8,7 @@
 baseline:
   after: true
   before: false
-  counts: 9
+  counts: 10
   detector: H4
   mass: 37.75
   settling_time: 10.0
@@ -21,7 +21,7 @@ equilibration:
   outlet: 12
   use_extraction_eqtime: true
 multicollect:
-  counts: 40
+  counts: 35
   detector: H4
   isotope: Ar40
 peakcenter:
