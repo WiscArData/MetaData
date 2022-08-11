@@ -21,7 +21,7 @@ equilibration:
   outlet: 12
   use_extraction_eqtime: true
 multicollect:
-  counts: 20
+  counts: 2
   detector: H3
   isotope: Ar40
 peakcenter:
