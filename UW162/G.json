@@ -7,8 +7,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G73",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -33,8 +33,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G72",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -59,8 +59,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G74",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -116,8 +116,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:GS01",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0005342645273492763,
             "mean_j_err": 3.7843195784393406e-07,
             "mean_j_mswd": 0.48162321093204175,
@@ -148,11 +148,6 @@
                     "uuid": "NBB9579"
                 },
                 {
-                    "is_omitted": true,
-                    "record_id": "UW162:GS03-03A",
-                    "uuid": "NBB9580"
-                },
-                {
                     "is_omitted": false,
                     "record_id": "UW162:GS03-04A",
                     "uuid": "NBB9581"
@@ -168,8 +163,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:GS03",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0005335398669140583,
             "mean_j_err": 4.932307262764244e-07,
             "mean_j_mswd": 0.9333473135557339,
@@ -188,56 +183,227 @@
             "position_jerr": 0.0
         },
         {
-            "analyses": [],
-            "decay_constants": {},
+            "analyses": [
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS08-01A",
+                    "uuid": "NBC3374"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS08-02A",
+                    "uuid": "NBC3377"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS08-03A",
+                    "uuid": "NBC3378"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS08-06A",
+                    "uuid": "NBC3383"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS08-07A",
+                    "uuid": "NBC3384"
+                }
+            ],
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "UW162:GS08",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "mean_j_mswd": 0,
-            "options": {},
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
+            "mean_j": 0.0005385102375845892,
+            "mean_j_err": 8.185327577624791e-07,
+            "mean_j_mswd": 0.3879143964515316,
+            "options": {
+                "model_kind": "Weighted Mean",
+                "monitor_age": 1.1864,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC Min et al., 2000",
+                "monte_carlo_ntrials": 10,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 25,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
-            "analyses": [],
-            "decay_constants": {},
+            "analyses": [
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS10-01A",
+                    "uuid": "NBC3387"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS10-02A",
+                    "uuid": "NBC3388"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS10-03A",
+                    "uuid": "NBC3389"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW162:GS10-04A",
+                    "uuid": "NBC3392"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS10-05A",
+                    "uuid": "NBC3393"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS10-06A",
+                    "uuid": "NBC3394"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS10-07A",
+                    "uuid": "NBC3397"
+                }
+            ],
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "UW162:GS10",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "mean_j_mswd": 0,
-            "options": {},
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
+            "mean_j": 0.0005378708435528193,
+            "mean_j_err": 9.795601019302138e-07,
+            "mean_j_mswd": 1.2602967800963882,
+            "options": {
+                "model_kind": "Weighted Mean",
+                "monitor_age": 1.1864,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC Min et al., 2000",
+                "monte_carlo_ntrials": 10,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 27,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
-            "analyses": [],
-            "decay_constants": {},
+            "analyses": [
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS11-02A",
+                    "uuid": "NBC3399"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW162:GS11-03A",
+                    "uuid": "NBC3402"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS11-05A",
+                    "uuid": "NBC3404"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS11-06A",
+                    "uuid": "NBC3407"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS11-07A",
+                    "uuid": "NBC3408"
+                }
+            ],
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "UW162:GS11",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "mean_j_mswd": 0,
-            "options": {},
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
+            "mean_j": 0.0005395764776644011,
+            "mean_j_err": 6.233977124674786e-07,
+            "mean_j_mswd": 0.8565375880127629,
+            "options": {
+                "model_kind": "Weighted Mean",
+                "monitor_age": 1.1864,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC Min et al., 2000",
+                "monte_carlo_ntrials": 10,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 28,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
-            "analyses": [],
-            "decay_constants": {},
+            "analyses": [
+                {
+                    "is_omitted": true,
+                    "record_id": "UW162:GS14-01A",
+                    "uuid": "NBC3409"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW162:GS14-02A",
+                    "uuid": "NBC3412"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS14-03A",
+                    "uuid": "NBC3413"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS14-04A",
+                    "uuid": "NBC3414"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS14-05A",
+                    "uuid": "NBC3417"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW162:GS14-07A",
+                    "uuid": "NBC3419"
+                }
+            ],
+            "decay_constants": {
+                "lambda_k_total": 5.464e-10,
+                "lambda_k_total_error": 0.0
+            },
             "identifier": "UW162:GS14",
-            "j": 0,
-            "j_err": 0,
-            "mean_j": 0,
-            "mean_j_err": 0,
-            "mean_j_mswd": 0,
-            "options": {},
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
+            "mean_j": 0.0005391839523736427,
+            "mean_j_err": 7.346334383104792e-07,
+            "mean_j_mswd": 0.7754315070371408,
+            "options": {
+                "model_kind": "Weighted Mean",
+                "monitor_age": 1.1864,
+                "monitor_material": "",
+                "monitor_name": "",
+                "monitor_reference": "AC Min et al., 2000",
+                "monte_carlo_ntrials": 10,
+                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
+                "use_monte_carlo": false,
+                "use_weighted_fit": false
+            },
             "position": 31,
-            "position_jerr": null
+            "position_jerr": 0.0
         },
         {
             "analyses": [],
@@ -246,8 +412,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G64",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -272,8 +438,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G65",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -298,8 +464,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G66",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -324,8 +490,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G67",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -350,8 +516,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G68",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -376,8 +542,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G69",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -402,8 +568,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G70",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -428,8 +594,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G71",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -454,8 +620,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G75",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -480,8 +646,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G76",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -506,8 +672,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G77",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -532,8 +698,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW162:G78",
-            "j": 0.0005339960084015592,
-            "j_err": 3.499751880260459e-07,
+            "j": 0.0005389879992936873,
+            "j_err": 3.7902670529305576e-07,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
