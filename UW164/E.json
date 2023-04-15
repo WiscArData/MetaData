@@ -7,8 +7,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW164:E78",
-            "j": 0.013768208769170728,
-            "j_err": 6.270527474135691e-06,
+            "j": 0.013774919262627916,
+            "j_err": 8.741119195486888e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -33,8 +33,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW164:E80",
-            "j": 0.013768208769170728,
-            "j_err": 6.270527474135691e-06,
+            "j": 0.013774919262627916,
+            "j_err": 8.741119195486888e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -59,8 +59,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW164:E79",
-            "j": 0.013768208769170728,
-            "j_err": 6.270527474135691e-06,
+            "j": 0.013774919262627916,
+            "j_err": 8.741119195486888e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -85,8 +85,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW164:E81",
-            "j": 0.013768208769170728,
-            "j_err": 6.270527474135691e-06,
+            "j": 0.013774919262627916,
+            "j_err": 8.741119195486888e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -165,6 +165,66 @@
                     "is_omitted": false,
                     "record_id": "UW164:ES04-12A",
                     "uuid": "NBC7367"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES04-13A",
+                    "uuid": "NBC8334"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW164:ES04-14A",
+                    "uuid": "NBC8335"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES04-15A",
+                    "uuid": "NBC8336"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES04-16A",
+                    "uuid": "NBC8339"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES04-17A",
+                    "uuid": "NBC8340"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES04-18A",
+                    "uuid": "NBC8341"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES04-19A",
+                    "uuid": "NBC8344"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES04-20A",
+                    "uuid": "NBC8345"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES04-21A",
+                    "uuid": "NBC8346"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES04-22A",
+                    "uuid": "NBC8349"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW164:ES04-23A",
+                    "uuid": "NBC8350"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES04-24A",
+                    "uuid": "NBC8351"
                 }
             ],
             "decay_constants": {
@@ -172,11 +232,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW164:ES04",
-            "j": 0.013768208769170728,
-            "j_err": 6.270527474135691e-06,
-            "mean_j": 0.013766626065082643,
-            "mean_j_err": 6.538420886072827e-06,
-            "mean_j_mswd": 0.20538736641781763,
+            "j": 0.013774919262627916,
+            "j_err": 8.741119195486888e-06,
+            "mean_j": 0.013774340648495337,
+            "mean_j_err": 1.0323141646592546e-05,
+            "mean_j_mswd": 0.5010464351324426,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 28.201,
@@ -229,7 +289,7 @@
                     "uuid": "NBC7381"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW164:ES06-09A",
                     "uuid": "NBC7382"
                 },
@@ -244,9 +304,69 @@
                     "uuid": "NBC7386"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW164:ES06-12A",
                     "uuid": "NBC7387"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES06-13A",
+                    "uuid": "NBC8354"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES06-14A",
+                    "uuid": "NBC8355"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW164:ES06-15A",
+                    "uuid": "NBC8356"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES06-16A",
+                    "uuid": "NBC8359"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW164:ES06-17A",
+                    "uuid": "NBC8360"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW164:ES06-18A",
+                    "uuid": "NBC8361"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES06-19A",
+                    "uuid": "NBC8364"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES06-20A",
+                    "uuid": "NBC8365"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW164:ES06-21A",
+                    "uuid": "NBC8366"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW164:ES06-22A",
+                    "uuid": "NBC8369"
+                },
+                {
+                    "is_omitted": true,
+                    "record_id": "UW164:ES06-23A",
+                    "uuid": "NBC8370"
+                },
+                {
+                    "is_omitted": false,
+                    "record_id": "UW164:ES06-24A",
+                    "uuid": "NBC8371"
                 }
             ],
             "decay_constants": {
@@ -254,11 +374,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW164:ES06",
-            "j": 0.013768208769170728,
-            "j_err": 6.270527474135691e-06,
-            "mean_j": 0.013786344387440483,
-            "mean_j_err": 2.2132944453914663e-05,
-            "mean_j_mswd": 1.319529510318963,
+            "j": 0.013774919262627916,
+            "j_err": 8.741119195486888e-06,
+            "mean_j": 0.013776385115923884,
+            "mean_j_err": 1.643094802480968e-05,
+            "mean_j_mswd": 0.7334312614952643,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 28.201,
