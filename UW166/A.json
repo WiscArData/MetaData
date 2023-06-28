@@ -2,300 +2,461 @@
     "positions": [
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A01",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 1,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A02",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 2,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A03",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 3,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A04",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 4,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A05",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 5,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A06",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 6,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A07",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 7,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A08",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 8,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A09",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 9,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A10",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 10,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A11",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 11,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A12",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 12,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A13",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 13,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A14",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 14,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A15",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 15,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A16",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 16,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:A17",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 17,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:AS01",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 18,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:AS03",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 20,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:AS08",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 25,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:AS10",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 27,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:AS15",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 32,
             "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {},
+            "decay_constants": {
+                "lambda_k_total": 5.463e-10,
+                "lambda_k_total_error": 0
+            },
             "identifier": "UW166:AS17",
             "j": 0.0005274584009817447,
             "j_err": 3.010048668951536e-07,
             "mean_j": 0,
             "mean_j_err": 0,
             "mean_j_mswd": 0,
-            "options": {},
+            "options": {
+                "monitor_age": 28.201,
+                "monitor_material": "Sanidine",
+                "monitor_name": "FC-2"
+            },
             "position": 34,
             "position_jerr": null
         }
