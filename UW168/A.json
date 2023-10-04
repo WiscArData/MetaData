@@ -224,7 +224,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW168:AA01",
+            "identifier": "UW168:AS01",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -237,7 +237,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW168:AA03",
+            "identifier": "UW168:AS03",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -250,7 +250,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW168:AA08",
+            "identifier": "UW168:AS08",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -263,7 +263,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW168:AA10",
+            "identifier": "UW168:AS10",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -276,7 +276,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW168:AA15",
+            "identifier": "UW168:AS15",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -289,7 +289,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW168:AA17",
+            "identifier": "UW168:AS17",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
