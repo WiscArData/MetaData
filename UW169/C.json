@@ -103,6 +103,71 @@
             "options": {},
             "position": 39,
             "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW169:C46",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 7,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW169:C47",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 8,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW169:C48",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 9,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW169:C49",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 10,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW169:C50",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 11,
+            "position_jerr": null
         }
     ],
     "z": 0
