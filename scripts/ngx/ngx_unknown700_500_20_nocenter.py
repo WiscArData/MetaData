@@ -10,7 +10,7 @@ baseline:
   before: false
   counts: 25
   detector: Ax
-  mass: 38.05
+  mass: 38.00
   settling_time: 10.0
   integration_time: 20.0
 default_fits: nominal
