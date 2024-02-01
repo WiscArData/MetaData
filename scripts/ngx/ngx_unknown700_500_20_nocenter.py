@@ -9,7 +9,7 @@ baseline:
   after: true
   before: false
   counts: 25
-  detector: Ax
+  detector: H3
   mass: 38.00
   settling_time: 10.0
   integration_time: 20.0
