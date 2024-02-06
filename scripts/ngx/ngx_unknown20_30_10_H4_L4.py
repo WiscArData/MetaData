@@ -34,7 +34,7 @@ peakcenter:
   - Ax
   - L2
   - L4
-  integration_time: 0.262144
+  integration_time: 0.20
   isotope: Ar40
 peakhop:
   generate_ic_table: false
