@@ -10,7 +10,7 @@ baseline:
   before: false
   counts: 30
   detector: H3
-  mass: 37.85
+  mass: 38.10
   settling_time: 10.0
   integration_time: 10.0
 default_fits: nominal
