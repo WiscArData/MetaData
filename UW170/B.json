@@ -1,815 +1,329 @@
 {
     "positions": [
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS01-02A",
-                    "uuid": "NBD4368"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS01-03A",
-                    "uuid": "NBD4369"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS01-04A",
-                    "uuid": "NBD4372"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS01-05A",
-                    "uuid": "NBD4373"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS01-06A",
-                    "uuid": "NBD4374"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS01-07A",
-                    "uuid": "NBD4377"
-                }
-            ],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "analyses": [],
+            "decay_constants": {},
             "identifier": "UW170:BS01",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0005280849763972637,
-            "mean_j_err": 3.6259529828145755e-06,
-            "mean_j_mswd": 4.426546429723352,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 18,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS03-01A",
-                    "uuid": "NBD4378"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS03-02A",
-                    "uuid": "NBD4379"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS03-03A",
-                    "uuid": "NBD4382"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS03-05A",
-                    "uuid": "NBD4384"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS03-07A",
-                    "uuid": "NBD4388"
-                }
-            ],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "analyses": [],
+            "decay_constants": {},
             "identifier": "UW170:BS03",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.000528416510283692,
-            "mean_j_err": 9.129872755660079e-07,
-            "mean_j_mswd": 1.1368200780926363,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 20,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS08-01A",
-                    "uuid": "NBD4389"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "UW170:BS08-03A",
-                    "uuid": "NBD4393"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS08-05A",
-                    "uuid": "NBD4397"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS08-06A",
-                    "uuid": "NBD4398"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "UW170:BS08-07A",
-                    "uuid": "NBD4399"
-                }
-            ],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "analyses": [],
+            "decay_constants": {},
             "identifier": "UW170:BS08",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0005288722771528236,
-            "mean_j_err": 7.793748010775813e-08,
-            "mean_j_mswd": 0.01072299306229439,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 25,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS10-01A",
-                    "uuid": "NBD4402"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS10-02A",
-                    "uuid": "NBD4403"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS10-03A",
-                    "uuid": "NBD4404"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS10-06A",
-                    "uuid": "NBD4409"
-                }
-            ],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "analyses": [],
+            "decay_constants": {},
             "identifier": "UW170:BS10",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0005280428262298456,
-            "mean_j_err": 3.2949244275094144e-07,
-            "mean_j_mswd": 0.25348645118593977,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 27,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": true,
-                    "record_id": "UW170:BS15-01A",
-                    "uuid": "NBD4413"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS15-03A",
-                    "uuid": "NBD4417"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "UW170:BS15-04A",
-                    "uuid": "NBD4418"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS15-05A",
-                    "uuid": "NBD4419"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS15-06A",
-                    "uuid": "NBD4422"
-                }
-            ],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "analyses": [],
+            "decay_constants": {},
             "identifier": "UW170:BS15",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0005298146744562481,
-            "mean_j_err": 1.9005419372474413e-07,
-            "mean_j_mswd": 0.04089838843113512,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 32,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
-            "analyses": [
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS17-01A",
-                    "uuid": "NBD4424"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "UW170:BS17-02A",
-                    "uuid": "NBD4427"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS17-04A",
-                    "uuid": "NBD4429"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS17-05A",
-                    "uuid": "NBD4432"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "UW170:BS17-06A",
-                    "uuid": "NBD4433"
-                },
-                {
-                    "is_omitted": false,
-                    "record_id": "UW170:BS17-07A",
-                    "uuid": "NBD4434"
-                }
-            ],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "analyses": [],
+            "decay_constants": {},
             "identifier": "UW170:BS17",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0005286278634579264,
-            "mean_j_err": 6.464938422714865e-07,
-            "mean_j_mswd": 0.3852976886198895,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 34,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B18",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 1,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B19",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 2,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B20",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 3,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B21",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 4,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B22",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 5,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B23",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 6,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B24",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 7,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B25",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 8,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B26",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 9,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B27",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 10,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B28",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 11,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B29",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 12,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B31",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 13,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B32",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 14,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B33",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 15,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B35",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 16,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B36",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 17,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B30",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 46,
-            "position_jerr": 0.0
+            "position_jerr": null
         },
         {
             "analyses": [],
-            "decay_constants": {
-                "lambda_k_total": 5.464e-10,
-                "lambda_k_total_error": 0.0
-            },
+            "decay_constants": {},
             "identifier": "UW170:B34",
             "j": 0.0005289563866204118,
             "j_err": 1.7074852211429286e-07,
-            "mean_j": 0.0,
-            "mean_j_err": 0.0,
-            "mean_j_mswd": 0.0,
-            "options": {
-                "model_kind": "Weighted Mean",
-                "monitor_age": 1.1864,
-                "monitor_material": "",
-                "monitor_name": "",
-                "monitor_reference": "AC Min et al., 2000",
-                "monte_carlo_ntrials": 10,
-                "predicted_j_error_type": "SEM, but if MSWD>1 use SEM * sqrt(MSWD)",
-                "use_monte_carlo": false,
-                "use_weighted_fit": false
-            },
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
             "position": 49,
-            "position_jerr": 0.0
+            "position_jerr": null
         }
     ],
     "z": 0.0
