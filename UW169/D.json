@@ -367,7 +367,7 @@
         {
             "analyses": [],
             "decay_constants": {},
-            "identifier": "UW169:D81",
+            "identifier": "UW169:D80",
             "j": 0,
             "j_err": 0,
             "mean_j": 0,
@@ -375,6 +375,19 @@
             "mean_j_mswd": 0,
             "options": {},
             "position": 39,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW169:D81",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 40,
             "position_jerr": null
         }
     ],
