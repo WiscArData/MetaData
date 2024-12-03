@@ -1,4 +1,122 @@
 {
-    "positions": [],
+    "positions": [
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW174:D52",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 1,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW174:D53",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 2,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW174:D54",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 3,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW174:D55",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 4,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW174:D56",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 5,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW174:D57",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 6,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW174:D58",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 7,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW174:D59",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 8,
+            "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW174:D60",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 9,
+            "position_jerr": null
+        }
+    ],
     "z": 0
 }
