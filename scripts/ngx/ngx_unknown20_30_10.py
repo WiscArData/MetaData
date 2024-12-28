@@ -30,11 +30,9 @@ peakcenter:
   detector: H3
   detectors:
   - H3
-  - H1
   - L1
-  - L3
   - L5
-  integration_time: 0.20
+  integration_time: 0.40
   isotope: Ar40
 peakhop:
   generate_ic_table: false
