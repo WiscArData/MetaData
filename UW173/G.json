@@ -324,6 +324,19 @@
             "options": {},
             "position": 45,
             "position_jerr": null
+        },
+        {
+            "analyses": [],
+            "decay_constants": {},
+            "identifier": "UW173:G89",
+            "j": 0,
+            "j_err": 0,
+            "mean_j": 0,
+            "mean_j_err": 0,
+            "mean_j_mswd": 0,
+            "options": {},
+            "position": 46,
+            "position_jerr": null
         }
     ],
     "z": 0
