@@ -449,8 +449,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW175:G74",
-            "j": 0.00545808861955084,
-            "j_err": 3.48620319704482e-06,
+            "j": 0.005446367710449714,
+            "j_err": 1.8535719984318369e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -584,7 +584,7 @@
                     "uuid": "f3d87f16-fd7a-474b-b660-09897a9c40ed"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW175:G75-09",
                     "uuid": "69c15051-4df8-4bcd-aef9-230246c0160c"
                 },
@@ -597,11 +597,6 @@
                     "is_omitted": false,
                     "record_id": "UW175:G75-11",
                     "uuid": "d174eeb1-c892-4e05-aa23-4d8817108a7d"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "UW175:G75-12",
-                    "uuid": "77ed083b-2169-47af-9631-08c81ac2964b"
                 },
                 {
                     "is_omitted": false,
@@ -639,11 +634,6 @@
                     "uuid": "6a76e2e8-9a8b-452e-b23a-e16093879b49"
                 },
                 {
-                    "is_omitted": true,
-                    "record_id": "UW175:G75-20",
-                    "uuid": "53f3f12e-2c1f-4d1e-a897-9d522382dedc"
-                },
-                {
                     "is_omitted": false,
                     "record_id": "UW175:G75-21",
                     "uuid": "d912ef39-e799-4437-9265-bdc976014ace"
@@ -660,18 +650,8 @@
                 },
                 {
                     "is_omitted": false,
-                    "record_id": "UW175:G75-24",
-                    "uuid": "09668198-0aca-41b8-aa60-6174cfd41b8c"
-                },
-                {
-                    "is_omitted": false,
                     "record_id": "UW175:G75-25",
                     "uuid": "c5ba90df-d779-4d33-a870-01dfead8f9fb"
-                },
-                {
-                    "is_omitted": true,
-                    "record_id": "UW175:G75-26",
-                    "uuid": "cb6bccbb-a07d-47b0-8410-93ea9b0d5834"
                 },
                 {
                     "is_omitted": false,
@@ -684,7 +664,7 @@
                     "uuid": "21d14457-02b8-4090-8190-8db23ac97ae1"
                 },
                 {
-                    "is_omitted": true,
+                    "is_omitted": false,
                     "record_id": "UW175:G75-29",
                     "uuid": "a854fb2e-bb8e-458c-84a9-8b1d55da2a9b"
                 },
@@ -734,11 +714,6 @@
                     "uuid": "2e06a884-a8a9-4fc6-8b8f-3c1c0a2b948e"
                 },
                 {
-                    "is_omitted": true,
-                    "record_id": "UW175:G75-39",
-                    "uuid": "8f59a624-19a7-43f0-b734-46a550a7b7f0"
-                },
-                {
                     "is_omitted": false,
                     "record_id": "UW175:G75-40",
                     "uuid": "b62fed56-2b00-4787-8874-6a0ba6859ffe"
@@ -764,7 +739,7 @@
                     "uuid": "720629d4-0809-4524-a879-6490081ba89f"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW175:G75-45",
                     "uuid": "ba52a517-b613-4e00-af4a-375ce05f8b5c"
                 },
@@ -799,11 +774,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW175:G75",
-            "j": 0.00545808861955084,
-            "j_err": 3.48620319704482e-06,
-            "mean_j": 0.005352621875475424,
-            "mean_j_err": 6.473682857662383e-06,
-            "mean_j_mswd": 1.3501587725465138,
+            "j": 0.005446367710449714,
+            "j_err": 1.8535719984318369e-06,
+            "mean_j": 0.005446367710449714,
+            "mean_j_err": 1.8535719984318369e-06,
+            "mean_j_mswd": 1.364247700063745,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 28.201,
@@ -1066,8 +1041,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW175:G77",
-            "j": 0.00545808861955084,
-            "j_err": 3.48620319704482e-06,
+            "j": 0.005446367710449714,
+            "j_err": 1.8535719984318369e-06,
             "mean_j": 0.00545808861955084,
             "mean_j_err": 3.48620319704482e-06,
             "mean_j_mswd": 1.2094490449805175,
