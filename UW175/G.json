@@ -853,8 +853,8 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW175:G80",
-            "j": 0.005446367710449714,
-            "j_err": 1.8535719984318369e-06,
+            "j": 0.005450012959056535,
+            "j_err": 3.583954803923272e-06,
             "mean_j": 0.0,
             "mean_j_err": 0.0,
             "mean_j_mswd": 0.0,
@@ -1122,7 +1122,7 @@
         {
             "analyses": [
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW175:G77-01A",
                     "uuid": "9c9eb313-586d-4eea-83b0-cf83bca66e7f"
                 },
@@ -1142,7 +1142,7 @@
                     "uuid": "0c65196d-e114-4bb2-af07-e11db3a0a012"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW175:G77-01E",
                     "uuid": "7337e16b-31c0-4f51-a0c7-7c90fd2db5df"
                 },
@@ -1162,7 +1162,7 @@
                     "uuid": "241951e3-e397-4c4a-ba9d-fdfc29f6b92e"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW175:G77-01I",
                     "uuid": "aa6c23a9-6a01-4cc4-9f45-70094abcdd43"
                 },
@@ -1172,7 +1172,7 @@
                     "uuid": "c8a90bdd-fdae-45c8-8dc1-c60a78d32426"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW175:G77-01K",
                     "uuid": "84819e10-77b0-48fe-a648-be7b23f1d7da"
                 },
@@ -1192,7 +1192,7 @@
                     "uuid": "2c00cf0e-320c-483b-8a4e-b2e93e652610"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW175:G77-01O",
                     "uuid": "ff6e0dbb-a7c6-467e-99f5-d889a550b561"
                 },
@@ -1207,7 +1207,7 @@
                     "uuid": "fc6daa48-9854-47cf-8d80-1f4eb32d2885"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW175:G77-01R",
                     "uuid": "1e983dae-5e06-4744-94ab-b57705ee69f7"
                 },
@@ -1217,7 +1217,7 @@
                     "uuid": "122b5d7b-1c3c-4298-9fc8-aefcb307cd06"
                 },
                 {
-                    "is_omitted": false,
+                    "is_omitted": true,
                     "record_id": "UW175:G77-01T",
                     "uuid": "c8422ed8-919d-4186-96bd-5b141490186b"
                 },
@@ -1367,11 +1367,11 @@
                 "lambda_k_total_error": 0.0
             },
             "identifier": "UW175:G77",
-            "j": 0.005486080546304399,
-            "j_err": 3.0540334839318916e-06,
-            "mean_j": 0.00545808861955084,
-            "mean_j_err": 3.48620319704482e-06,
-            "mean_j_mswd": 1.2094490449805175,
+            "j": 0.005450012959056535,
+            "j_err": 3.583954803923272e-06,
+            "mean_j": 0.005450012959056535,
+            "mean_j_err": 3.583954803923272e-06,
+            "mean_j_mswd": 1.227545223561407,
             "options": {
                 "model_kind": "Weighted Mean",
                 "monitor_age": 28.201,
