@@ -11,7 +11,7 @@ baseline:
   counts: 50
   detector: H3
   mass: 37.90
-  settling_time: 10.0
+  settling_time: 20.0
   integration_time: 10.0
 default_fits: nominal
 equilibration:
